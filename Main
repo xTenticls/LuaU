@@ -1,6 +1,6 @@
 local library = {
     Flags = {},
-    SectionsOpened = false,
+    SectionsOpened = true,
     Theme = "Dark"
 }
 library.flags = library.Flags
