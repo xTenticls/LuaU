@@ -10,8 +10,7 @@ local HttpService = game:GetService('HttpService')
 -- // Variables
 getgenv().kms = false
 local Ihatethisui = {}
-local MathName = math.random(500000,900000)
-local UIName = MathName
+local UIName = 'Visual UI Library | .gg/puxxCphTnK'
 local Amount = 0
 local ConfigF
 local BreakAllLoops = false
